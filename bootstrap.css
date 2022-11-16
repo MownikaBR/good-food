@@ -1,0 +1,22 @@
+.bgimg{
+    background-image: url(https://img.freepik.com/premium-photo/assorted-indian-recipes-food-various_79295-7226.jpg?w=740);
+    height: 110vh;
+    width: 100%;
+    background-size: cover;
+}
+.layoutcard{
+    background-color: rgb(209, 209, 179);
+    height: 200px;
+    padding: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.heading{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.paraline{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
